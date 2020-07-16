@@ -5,7 +5,7 @@ contact for any account requests they might encounter.
 
 Co-Authors: Anu Srivastava, Lee Boonstra
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n99sQBtYulQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![demo video](https://img.youtube.com/vi/n99sQBtYulQ/0.jpg)](https://www.youtube.com/watch?v=n99sQBtYulQ)
 
 ## Prerequisites 
 
