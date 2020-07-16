@@ -5,6 +5,8 @@ contact for any account requests they might encounter.
 
 Co-Authors: Anu Srivastava, Lee Boonstra
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n99sQBtYulQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Prerequisites 
 
 The set up instructions are below assume experience with Google Cloud and Dialogflow.
